@@ -24,6 +24,7 @@ JavaScript, React/Vue.js
 Backend
 
 PHP (Default Backend for my projects) Laravel
+C# .NET, Java, Python 3.2
 
 Node.js, Python,C# .NET
 
@@ -37,7 +38,7 @@ Docker, Kubernetes, CI/CD Tools
 
 Other Tools
 
-Git & GitHub, Figma, VS Code PHP storm
+Git & GitHub, Figma, VS Code, PHP storm
 
 🛠️ Projects
 
