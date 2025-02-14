@@ -1,12 +1,13 @@
 Hi there, I'm Tural Sedirov 👋
 
-Welcome to my GitHub profile! I'm passionate about creating elegant and efficient solutions to challenging problems. My areas of expertise include [Your Skills/Technologies], and I'm always eager to learn and explore new tools and technologies.
+Welcome to my GitHub profile! I'm passionate about creating elegant and efficient solutions to challenging problems. 
+My areas of expertise include [PHP/C#/Java/Python/Javascript], and I'm always eager to learn and explore new tools and technologies.
 
 🚀 About Me
 
-🌟 Developer & Innovator: I specialize in building [specific types of applications, e.g., web apps, APIs, or mobile apps].
+🌟 Developer & Innovator: I specialize in building [Portals, Web apps, ERP, CMS, APIs, LMS].
 
-🎓 Lifelong Learner: Currently exploring [specific field or technology, e.g., AI, blockchain, or DevOps].
+🎓 Lifelong Learner: Currently exploring [AI,Kubernetes,Docker].
 
 🌍 Open Source Enthusiast: Contributing to projects that make a difference in the world.
 
@@ -28,7 +29,7 @@ Node.js, Python,C# .NET
 
 Database
 
-MySQL, PostgreSQL
+MySQL, PostgreSQL, MSSQL
 
 DevOps
 
@@ -36,17 +37,16 @@ Docker, Kubernetes, CI/CD Tools
 
 Other Tools
 
-Git & GitHub, Figma, VS Code
+Git & GitHub, Figma, VS Code PHP storm
 
 🛠️ Projects
 
 Here are some highlights from my work:
 
-Project 1 Name: A brief description of this project and its purpose.
+Project 1 EMS: Event management system
 
-Project 2 Name: What it does and why it’s cool.
+Project 2 LMS: Learning management system
 
-Project 3 Name: Highlight your contribution or the impact of this project.
 
 📈 GitHub Stats
 
@@ -55,8 +55,7 @@ Project 3 Name: Highlight your contribution or the impact of this project.
 
 🌐 Let's Connect
 
-LinkedIn: Your LinkedIn
+LinkedIn:https://www.linkedin.com/in/tural-sedirov-a98329174/
 
-Portfolio: Your Portfolio
+Portfolio: https:/turalsedirov.com
 
-Twitter: Your Twitter Handle
